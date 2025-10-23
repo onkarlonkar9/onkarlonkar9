@@ -32,10 +32,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamtruptimane&show_icons=true&locale=en" alt="iamtruptimane" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtruptimane&" alt="iamtruptimane" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onkarlonkar9&" alt="onkarlonkar9" /></p>
 
 <!--
-**iamtruptimane/iamtruptimane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**onkarlonkar9/onkarlonkar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
